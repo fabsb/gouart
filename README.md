@@ -1,0 +1,1 @@
+`gouart` is a cli tool used to attach stdin and stdout to a serial port
