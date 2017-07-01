@@ -1,0 +1,6 @@
+hash: 9e177f7ea30eb166846dd6a00f14a37969b2c07bd3db1f0ff3bb0f3f66f7f907
+updated: 2017-07-01T04:31:40.251121868+02:00
+imports:
+- name: github.com/tarm/serial
+  version: e50d7d20b1f68657808356d33b4404890487ceee
+testImports: []

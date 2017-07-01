@@ -1,0 +1,4 @@
+package: github.com/fabsb/gouart
+import:
+- package: github.com/tarm/serial
+  version: e50d7d20b1f68657808356d33b4404890487ceee
